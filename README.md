@@ -16,4 +16,5 @@
 2 - CSS3;
 3 - JS;
 4 - SCSS;
-5 - Creativity;
+5 - SWIPER;
+6 - Creativity;
