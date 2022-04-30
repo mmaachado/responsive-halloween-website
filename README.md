@@ -6,7 +6,7 @@
 ### 📌 todo
 1 - setup main folders and files ☑️;
 2 - create css variables ☑️;
-3 - markdown the html;
+3 - markdown the html ☑️;
 4 - add projects images ☑️;
 
 ## ℹ️ project info
