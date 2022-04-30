@@ -12,7 +12,6 @@
 ### Adjusts && fixes
 
 This project is under development, and the next updates will focus on:
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Create main folders && files;
 - [x] Import scripts && frameworks;
