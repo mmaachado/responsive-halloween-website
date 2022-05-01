@@ -385,9 +385,24 @@ button {
     transform: translateY(-.5rem);
 }
 
+/*============ about ============*/
+.about__container {
+    row-gap: 2rem;
+}
 
+.about__data {
+    text-align: center;
+}
 
-/*============ reusable classes ============*/
+.about__description {
+    margin-bottom: var(--mb-2);
+}
+
+.about__img {
+    width: 200px;
+    justify-self: center;
+}
+
 /*============ reusable classes ============*/
 /*============ reusable classes ============*/
 /*============ reusable classes ============*/
