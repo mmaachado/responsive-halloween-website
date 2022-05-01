@@ -3,8 +3,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/mmaachado/responsive-halloween-website?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/mmaachado/responsive-halloween-website?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/mmaachado/responsive-halloween-website?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/mmaachado/responsive-halloween-website?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/mmaachado/responsive-halloween-website?style=for-the-badge)
 
 <img src="/src/conf/img/home-screenshot.png" alt="home-screenshot.png">
 

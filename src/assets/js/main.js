@@ -41,8 +41,24 @@ let homeSwiper = new Swiper(".home-swiper", {
     },
 });
 
+/*============ change menu bg ============*/
+func scrollHeader() {
+    const header = document.getElementById('header')
+    // when scroll is greater than 100 viewport, add the scroll header class to the header tag
+    if(this.scrollY >= 50) header.classList.add('scroll-header'); else header.classList.remove('scroll-header')
+}
+window.addEventListener('scroll', scrollHeader)
 
 
+
+
+/*============ new swiper ============*/
+
+/*============ scroll sections active link ============*/
+
+/*============ show scroll up ============*/
+
+/*============ scroll reveal animation ============*/
 
 /* show menu */
 
