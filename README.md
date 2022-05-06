@@ -9,14 +9,12 @@
 > Project Home.
 ### Adjusts && fixes
 
-This project is under development, and the next updates will focus on:
+This project is finished, feel free to fork/clone and message me if you think anything could be better.
 
-- [x] Create main folders && files;
-- [x] Import scripts && frameworks;
-- [x] Mark project main structures;
-- [ ] Finish main page structure;
-- [ ] Finish styling;
-- [ ] Clean code && finish;
+### Frameworks and technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📝 License
 

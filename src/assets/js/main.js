@@ -11,7 +11,6 @@ if(navToggle) {
     })
 }
 
-
 /*==== menu hidden ====*/
 /* validate if const exists */
 if(navClose) {
@@ -49,9 +48,6 @@ function scrollHeader() {
 }
 window.addEventListener('scroll', scrollHeader)
 
-
-
-
 /*============ new swiper ============*/
 let newSwiper = new Swiper(".new-swiper", {
     centeredSlides: true,
@@ -59,7 +55,6 @@ let newSwiper = new Swiper(".new-swiper", {
     spaceBetween: 16,
     loop: 'true',
 });
-
 
 /*============ scroll sections active link ============*/
 const sections = document.querySelectorAll('section[id]')
@@ -102,7 +97,3 @@ sr.reveal('.home-swiper, .new-swiper, .newsletter__container')
 sr.reveal('.category__data, .trick__content, .footer__content', {interval: 100})
 sr.reveal('.about__data, .discount__img', {origin: 'left'})
 sr.reveal('.about__img, .discount__data', {origin: 'right'})
-
-
-/* show menu */
-
